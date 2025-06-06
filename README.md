@@ -1,2 +1,2 @@
 # txtest
-Constant 75% PWN signal for transmitter tests
+Constant 75% PWM signal for transmitter tests
